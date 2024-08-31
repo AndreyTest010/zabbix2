@@ -26,6 +26,11 @@
 
 `Приведите ответ в свободной форме........`
 
+
+
+
+```
+Поле для вставки кода...
 apt update 
 apt install postgresql
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
@@ -38,11 +43,6 @@ zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psq
 nano /etc/zabbix/zabbix_server.conf - ставим пароль
 systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
-
-
-```
-Поле для вставки кода...
-....
 ....
 ....
 ....
@@ -59,21 +59,17 @@ systemctl enable zabbix-server zabbix-agent apache2
 
 `Приведите ответ в свободной форме........`
 
+
+
+
+```
+Поле для вставки кода...
 wget https://repo.zabbix.com/zabbix/7.0/debian/pool/main/z/zabbix-release/zabbix-release_7.0-2+debian11_all.deb
 dpkg -i zabbix-release_7.0-2+debian11_all.deb
 apt update
 apt install zabbix-agent
 systemctl restart zabbix-agent
 systemctl enable zabbix-agent
-
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
