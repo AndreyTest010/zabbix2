@@ -100,5 +100,4 @@ systemctl enable zabbix-agent
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
-![lwindows](https://github.com/AndreyTest010/zabbix2/blob/main/img/windowszabbix.jpg)
+![windows](https://github.com/AndreyTest010/zabbix2/blob/main/img/windowszabbix.jpg)
