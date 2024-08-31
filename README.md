@@ -49,7 +49,7 @@ systemctl enable zabbix-server zabbix-agent apache2
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![alt text](https://github.com/AndreyTest010/zabbix2/blob/main/img/izabbix.jpg)
+![authorization](https://github.com/AndreyTest010/zabbix2/blob/main/img/zabbix.jpg)
 
 
 
