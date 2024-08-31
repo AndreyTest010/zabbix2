@@ -73,7 +73,9 @@ systemctl restart zabbix-agent
 systemctl enable zabbix-agent
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![host](https://github.com/AndreyTest010/zabbix2/blob/main/img/host.jpg)
+![log](https://github.com/AndreyTest010/zabbix2/blob/main/img/log.jpg)
+![latestdata](https://github.com/AndreyTest010/zabbix2/blob/main/img/latestdata.jpg)
 
 
 ---
@@ -99,25 +101,4 @@ systemctl enable zabbix-agent
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
-
-### Задание 4
-
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![lwindows](https://github.com/AndreyTest010/zabbix2/blob/main/img/windowszabbix.jpg)
