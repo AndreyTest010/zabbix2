@@ -94,5 +94,5 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![windows](https://https://github.com/AndreyTest010/zabbix2/blob/main/img/windowszabbix.jpg)
+![windows](https://github.com/AndreyTest010/zabbix2/blob/main/img/windowszabbix.jpg)
 
