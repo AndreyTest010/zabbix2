@@ -63,9 +63,9 @@ build:
   image: docker:latest
   script:
    - docker build .
-```
 
-`При необходимости прикрепитe сюда скриншоты
+
+скриншоты
 ![build](https://github.com/AndreyTest010/zabbix2/blob/main/img/build.jpg)
 
 
